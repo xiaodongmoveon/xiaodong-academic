@@ -23,15 +23,12 @@ organizations:
     url: https://www.whu.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master of Arts
+      institution: School of Journalism and Communication, Wuhan University
+      year: 2024
+    - course: Bachelor of Arts
+      institution: College of Communication, Liaoning University
+      year: 2017
 email: ""
 superuser: true
 highlight_name: true
