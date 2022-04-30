@@ -18,6 +18,9 @@ social:
   - icon: weibo
     icon_pack: fab
     link: https://weibo.com/u/5094901465
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/yxd_academic/
 organizations:
   - name: Wuhan University
     url: https://www.whu.edu.cn/
