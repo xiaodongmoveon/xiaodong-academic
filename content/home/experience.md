@@ -25,8 +25,8 @@ experience:
   - title: 'Data Operation Intern'
     company: ByteDance
     company_url: ''
-    company_logo: org-gc
-    location: California
+    company_logo: ByteDance
+    location: Beijing
     date_start: '2020-12-01'
     date_end: '2021-02-01'
     description: |2-
@@ -39,8 +39,8 @@ experience:
   - title: 'Media Internship'
     company: Kwai
     company_url: ''
-    company_logo: org-gc
-    location: California
+    company_logo: kwai-logo
+    location: Beijing
     date_start: '2020-06-01'
     date_end: '2020-09-01'
     description:  |2-
