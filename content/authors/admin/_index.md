@@ -14,7 +14,7 @@ social:
     link: Yanxiaodong@whu.edu.cn
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Yxd_Academic
   - icon: weibo
     icon_pack: fab
     link: https://weibo.com/u/5094901465
