@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: Yanxiaodong@whu.edu.cn
+    link: mailto:Yanxiaodong@whu.edu.cn
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Yxd_Academic
