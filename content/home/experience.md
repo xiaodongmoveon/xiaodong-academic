@@ -22,28 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Data Operation Intern
+    company: ByteDance
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-bytedance
     location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    date_start: '2020-12-01'
+    date_end: '2021-02-01'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Analyzed the data of the business related to the content quality team, identified possible security risks in each business segment through the data, communicated and collaborated with the partner team to collect and collate the data regularly
+        * Extracted data through the big data platform to support the group's analysis report output; sorting out the underlying indicators and verifying the accuracy of the online data through cross-comparison of data from multiple parties
+        * Collated and analyzed data related to the popularity of business line anchors, judged the quality of live broadcasts and assisted in the development of optimization strategies
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Media Internship
+    company: Kwai
     company_url: ''
-    company_logo: org-x
+    company_logo: org-kwai
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2020-06-01'
+    date_end: '2020-09-31'
+    description:  |2-
+        Responsibilities include:
+        
+        *  Responsible for audits, account opening and other related processes directly related to clients; seamlessly connects agents and clients, tracking and resolving issues based on immediate needs
+        *  Responsible for some administrative tasks within the department on a day-to-day basis, as well as monitoring public opinion data in the backend of Racer commercialization
 
 design:
   columns: '2'
