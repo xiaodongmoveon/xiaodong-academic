@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Data Operation Intern
+  - title: 'Data Operation Intern'
     company: ByteDance
     company_url: ''
     company_logo: org-gc
@@ -36,7 +36,7 @@ experience:
         * Extracted data through the big data platform to support the group's analysis report output; sorting out the underlying indicators and verifying the accuracy of the online data through cross-comparison of data from multiple parties
         * Collated and analyzed data related to the popularity of business line anchors, judged the quality of live broadcasts and assisted in the development of optimization strategies
 
-  - title: Media Internship
+  - title: 'Media Internship'
     company: Kwai
     company_url: ''
     company_logo: org-gc
