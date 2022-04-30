@@ -25,7 +25,7 @@ experience:
   - title: Data Operation Intern
     company: ByteDance
     company_url: ''
-    company_logo: 
+    company_logo: org-gc
     location: California
     date_start: '2020-12-01'
     date_end: '2021-02-01'
@@ -39,7 +39,7 @@ experience:
   - title: Media Internship
     company: Kwai
     company_url: ''
-    company_logo: 
+    company_logo: org-gc
     location: California
     date_start: '2020-06-01'
     date_end: '2020-09-31'
