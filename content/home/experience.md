@@ -15,7 +15,7 @@ experience:
         * Analyzed the data of the business related to the content quality team, identified possible security risks in each business segment through the data, communicated and collaborated with the partner team to collect and collate the data regularly
         * Extracted data through the big data platform to support the group's analysis report output; sorting out the underlying indicators and verifying the accuracy of the online data through cross-comparison of data from multiple parties
         * Collated and analyzed data related to the popularity of business line anchors, judged the quality of live broadcasts and assisted in the development of optimization strategies
-  - title: Media Internship
+  - title: Media Internship - The Department of Commercial
     company: Kwai
     company_url: ""
     company_logo: kwai-logo
