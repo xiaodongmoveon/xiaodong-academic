@@ -6,7 +6,8 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Communication Studies
-  - Public Diplomacy，Political Science
+  - Public Diplomacy
+  - Political Science
   - Gender Studies
 social:
   - icon: envelope
