@@ -22,7 +22,7 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/yxd_academic/
-  - icon: Facebook
+  - icon: facebook
     icon_pack: fab
     link: https://www.facebook.com/profile.php?id=100074350274097
 organizations:
