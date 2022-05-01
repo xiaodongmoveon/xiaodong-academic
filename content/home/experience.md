@@ -5,7 +5,7 @@ experience:
   - title: Data Operation Intern - The Department of Professional Generated Content
     company: ByteDance
     company_url: "https://www.bytedance.com/"
-    company_logo: 
+    company_logo: ByteDance
     location: Beijing, China
     date_start: 2020-12-01
     date_end: 2021-02-01
