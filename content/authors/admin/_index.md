@@ -1,9 +1,8 @@
 ---
 title: Yan Xiaodong
-role: School of Journalism and Communication
+role: School of Journalism and Communication, Wuhan University
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Political Communication, Feminism, Gender Politics, Gender Diplomacy, and LGBT+ Studies.
 interests:
   - Communication Studies
   - Public Diplomacy
