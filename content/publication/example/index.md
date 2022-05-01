@@ -8,7 +8,8 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
   eleifend gravida.
 slides: example
-url_pdf: ""
+url_pdf: "[国家形象视像化建构类短视频的优化路径研究.pdf](https://github.com/xiaodongmoveon/xiaodong-academic/files/8598343/default.pdf)
+"
 publication_types:
   - "1"
   - "2"
@@ -37,9 +38,9 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-date: 2013-07-01T00:00:00Z
+date: 2020-02-01T00:00:00Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2020-02-01T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
