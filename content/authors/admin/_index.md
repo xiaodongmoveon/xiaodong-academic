@@ -28,7 +28,7 @@ organizations:
 education:
   courses:
     - course: Master of Arts
-      institution: School of Journalism and Communication, Wuhan University
+      institution: School of Journalism and Communication, Wuhan University (-ing)
       year: 2024
     - course: Bachelor of Arts
       institution: College of Communication, Liaoning University
