@@ -8,8 +8,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
   eleifend gravida.
 slides: example
-url_pdf: "[国家形象视像化建构类短视频的优化路径研究.pdf](https://github.com/xiaodongmoveon/xiaodong-academic/files/8598343/default.pdf)
-"
+url_pdf: "https://github.com/xiaodongmoveon/xiaodong-academic/blob/11f10b59b3d796daf107b8417b56378530368ad9/A%20Study%20on%20the%20Optimization%20Path%20of%20Short%20Video%20in%20the%20Category%20of%20National%20Image%20Visualization%20Construction.pdf"
 publication_types:
   - "1"
   - "2"
