@@ -11,8 +11,14 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Literature 
+      tag: Literature 
+    - name: Books
+      tag: Books
+    - name: Gender Studies
+      tag: Gender Studies
+    - name: Pubilic Diplomacy
+      tag: Pubilic Diplomacy
     - name: Other
       tag: Demo
 design:
