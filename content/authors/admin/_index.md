@@ -46,8 +46,6 @@ Yan Xiaodong is a postgraduate in the School of Journalism and Communication at 
 
 (2017-2021) As an undergraduate student majoring in Announcing and Anchoring, he ranked first out of 70 students (GPA: 91.72/100). He received the qualification of early exemption admission from Wuhan University's School of Journalism and Communication in October 2020.
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/CV-Yan Xiaodong.pdf
-#    weight: 70
+ - name: CV
+   url: uploads/CV-Yan Xiaodong.pdf
+   weight: 70
