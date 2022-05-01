@@ -8,7 +8,7 @@ external_link: ""
 url_slides: ""
 title: Example Project
 tags:
-  - Literature Reading
+  - Literature
 links:
   - icon: twitter
     icon_pack: fab
