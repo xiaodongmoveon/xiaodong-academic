@@ -1,7 +1,7 @@
 ---
 title: Yan Xiaodong
 role: School of Journalism and Communication
- url: http://journal.whu.edu.cn/
+ url: https://www.journal.whu.edu.cn/
 avatar_filename: avatar.jpg
 bio: My research interests include Political Communication, Feminism, Gender Politics, Gender Diplomacy, and LGBT+ Studies.
 interests:
