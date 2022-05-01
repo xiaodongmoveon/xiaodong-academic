@@ -1,9 +1,9 @@
 ---
 widget: featured
-widget_id: My Blog Story
+widget_id: RECENT-POSTS
 headless: true
 weight: 80
-title: My Blog Story
+title: Fantasist’s Stories
 subtitle: ""
 content:
   page_type: publication
