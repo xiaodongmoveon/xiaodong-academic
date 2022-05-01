@@ -37,4 +37,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Yan Xiaodong is a master’s student in the School of Journalism and Communication at Wuhan University. His major is Communication Studies, and research interests include Political Communication, Feminism, Gender Politics, Gender Diplomacy, and LGBT+ Studies.
+Yan Xiaodong is a postgraduate in the School of Journalism and Communication at Wuhan University (GPA: 3.68/4; 91/100). His major is Communication Studies, and research interests include Political Communication, Feminism, Gender Politics, Gender Diplomacy, and LGBT+ Studies.
+
+(2017-2021) As an undergraduate majoring in Announcing and Anchoring, he was ranked first among 70 students（GPA: 91.72/100） and was directly guaranteed a place in Wuhan University's School of Journalism and Communication.
