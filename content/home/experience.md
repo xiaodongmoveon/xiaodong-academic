@@ -4,7 +4,7 @@ date_format: Jan 2006
 experience:
   - title: Data Operation Intern - The Department of Professional Generated Content
     company: ByteDance
-    company_url: ""
+    company_url: "https://www.bytedance.com/"
     company_logo: ByteDance
     location: Beijing, China
     date_start: 2020-12-01
@@ -19,7 +19,7 @@ experience:
         * Collecting and collateing the data regularly
   - title: Media Executive Intern - The Department of Commercial
     company: Kwai
-    company_url: ""
+    company_url: "https://www.kuaishou.com/"
     company_logo: kwai-logo
     location: Beijing, China
     date_start: 2020-06-01
