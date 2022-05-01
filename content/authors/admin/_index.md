@@ -1,6 +1,7 @@
 ---
 title: Yan Xiaodong
-role: School of Journalism and Communication, Wuhan University
+role: School of Journalism and Communication
+ url: http://journal.whu.edu.cn/
 avatar_filename: avatar.jpg
 bio: My research interests include Political Communication, Feminism, Gender Politics, Gender Diplomacy, and LGBT+ Studies.
 interests:
@@ -21,6 +22,9 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/yxd_academic/
+  - icon: Facebook
+    icon_pack: fab
+    link: https://www.facebook.com/profile.php?id=100074350274097
 organizations:
   - name: Wuhan University
     url: https://www.whu.edu.cn/
