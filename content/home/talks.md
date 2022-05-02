@@ -1,4 +1,4 @@
----
+<!-- ---
 widget: pages
 widget_id: RECENT-POSTS
 headless: true
@@ -20,4 +20,4 @@ content:
   order: desc
 design:
   view: 2
----
+--- -->
