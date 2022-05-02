@@ -7,7 +7,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
   arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
   eleifend gravida.
-slides: example
+slides:
 url_pdf: ""
 publication_types:
   - "1"
@@ -31,7 +31,6 @@ doi: ""
 featured: false
 tags: []
 projects:
-  - example
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
