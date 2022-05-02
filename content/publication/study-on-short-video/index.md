@@ -30,14 +30,14 @@ title: A Study on the Optimization Path of Short Video in the Category of Nation
 doi: ""
 featured: false
 tags: []
-# projects:
-#   - example
+projects:
+  - example
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
 date: 2020-02-01T00:00:00Z
-# url_slides: ""
+url_slides: ""
 publishDate: 2020-02-01T00:00:00Z
 url_poster: ""
 url_code: ""
