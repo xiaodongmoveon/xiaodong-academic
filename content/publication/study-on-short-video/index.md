@@ -24,12 +24,11 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 url_dataset: ""
 url_project: ""
 publication_short: ""
-url_source: ""
+url_source: "https://kns.cnki.net/kcms/detail/detail.aspx?filename=XBGS202003012&dbcode=CJFD&dbname=CJFD2020&v=ft3M_EWKOn96q_jiJNwipHyh94nloo_DjVx1MEFhk1qiy8lfoS8aUnOak9nLN1HY"
 url_video: ""
-title: A Study on the Optimization Path of Short Video in the Category of
-  National Image Visualization Construction
+title: A Study on the Optimization Path of Short Video in the Category of National Image Visualization Construction
 doi: ""
-featured: true
+featured: false
 tags: []
 projects:
   - example
