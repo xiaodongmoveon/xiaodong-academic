@@ -17,3 +17,4 @@ title: A Study on the Optimization Path of Short Video in the Category of
   National Image Visualization Construction
 date: 2020-02-01T00:00:00.000Z
 publishDate: 2020-02-01T00:00:00.000Z
+---
