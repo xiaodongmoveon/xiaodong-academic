@@ -1,12 +1,6 @@
 ---
-slides: How
-url_pdf: ""
-summary: 
-
-url_video: ""
+slides: slide
 date: 2022-05-04T20:40:00Z
-external_link: ""
-url_slides: ""
 title: Literature about Gender Politics
 tags:
   - Literature
@@ -19,8 +13,9 @@ links:
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-url_code: ""
+  
 ---
+
 ## Presidential/Congress Campaigns
 [Gibson, K. L., & Heyse, A. L. (2010). “The difference between a hockey mom and a pit bull”: Sarah Palin's faux maternal persona and performance of hegemonic masculinity at the 2008 Republican National Convention. *Communication Quarterly*, 58(3), 235-256.](https://www.tandfonline.com/doi/abs/10.1080/01463373.2010.503151)
 
