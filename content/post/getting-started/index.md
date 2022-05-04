@@ -6,7 +6,6 @@ summary: I will share my daily life, study notes and interesting audio and video
 draft: false
 featured: false
 authors:
-  - admin
   - Yan Xiaodong
 lastmod: 2020-12-13T00:00:00Z
 tags:
