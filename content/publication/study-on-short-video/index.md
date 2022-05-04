@@ -26,8 +26,6 @@ doi: ""
 featured: false
 tags: []
 projects: null
-image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
 date: 2020-02-01T00:00:00.000Z
