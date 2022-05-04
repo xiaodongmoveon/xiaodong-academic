@@ -1,18 +1,36 @@
 ---
-slides: slide
-date: 2022-05-04T20:40:00Z
 title: Literature about Gender Politics
 subtitle：All the papers in this post are literature on gender politics that I have searched, and I will refine my reading by category in the near future and link to and update my reading notes and valuable assertions in this post for use in my future literature review of the study.
-
+summary: 
 tags:
-  - Literature
-  - Gender Politics
+  - Deep Learning
+date: '2022-05-04T20:51:59Z'
+
+# Optional external URL for project (replaces project detail page).
+external_link: ''
+
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+
 links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/Yxd_Academic
+    url: https://twitter.com/georgecushen
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: example
 ---
+
 ## Presidential/Congress Campaigns
 [Gibson, K. L., & Heyse, A. L. (2010). “The difference between a hockey mom and a pit bull”: Sarah Palin's faux maternal persona and performance of hegemonic masculinity at the 2008 Republican National Convention. *Communication Quarterly*, 58(3), 235-256.](https://www.tandfonline.com/doi/abs/10.1080/01463373.2010.503151)
 [Lee Kaid, L., Fernandes, J., & Painter, D. (2011). Effects of political advertising in the 2008 presidential campaign. *American Behavioral Scientist*, 55(4), 437-456.](https://journals.sagepub.com/doi/abs/10.1177/0002764211398071)
