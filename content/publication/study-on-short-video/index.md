@@ -12,35 +12,8 @@ authors:
 author_notes:
   - Equal contribution
 publication: West China Broadcasting TV
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
-url_dataset: ""
-url_project: ""
-publication_short: ""
 url_source: https://kns.cnki.net/kcms/detail/detail.aspx?filename=XBGS202003012&dbcode=CJFD&dbname=CJFD2020&v=ft3M_EWKOn96q_jiJNwipHyh94nloo_DjVx1MEFhk1qiy8lfoS8aUnOak9nLN1HY
-url_video: ""
 title: A Study on the Optimization Path of Short Video in the Category of
   National Image Visualization Construction
-doi: ""
-featured: false
-tags: []
-projects: null
-  focal_point: ""
-  preview_only: false
 date: 2020-02-01T00:00:00.000Z
-url_slides: ""
 publishDate: 2020-02-01T00:00:00.000Z
-url_poster: ""
-url_code: ""
----
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
