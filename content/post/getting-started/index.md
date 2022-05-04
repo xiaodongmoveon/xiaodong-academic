@@ -1,9 +1,8 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
-
+title: Welcome to My Blog！I'll be enjoying myself here！🥰
+subtitle: I will share my daily life, study notes and interesting audio and video here.
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: I will share my daily life, study notes and interesting audio and video here.
 
 # Link this post with a project
 projects: []
@@ -30,11 +29,11 @@ image:
 
 authors:
   - admin
-  - 吳恩達
+  - Yan Xiaodong
 
 tags:
   - Academic
-  - 开源
+  - My Blog
 
 categories:
   - Demo
