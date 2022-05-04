@@ -1,7 +1,10 @@
 ---
+
 slides: slide
 date: 2022-05-04T20:40:00Z
 title: Literature about Gender Politics
+subtitle：All the papers in this post are literature on gender politics that I have searched, and I will refine my reading by category in the near future and link to and update my reading notes and valuable assertions in this post for use in my future literature review of the study.
+
 tags:
   - Literature
   - Gender Politics
@@ -10,10 +13,7 @@ links:
     icon_pack: fab
     name: Follow
     url: https://twitter.com/Yxd_Academic
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-  
+
 ---
 
 ## Presidential/Congress Campaigns
