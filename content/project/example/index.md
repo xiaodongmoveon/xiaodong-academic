@@ -72,5 +72,3 @@ slides: example
 [Maier, J., & Renner, A. M. (2018). When a man meets a woman: Comparing the use of negativity of male candidates in single-and mixed-gender televised debates. *Political Communication*, 35(3), 433-449.](https://www.tandfonline.com/doi/abs/10.1080/10584609.2017.1411998)
 [Cavazza, N. (2016). When political candidates “go positive”: The effects of flattering the rival in political communication. *Social Influence*, 11(3), 166-176.](https://www.tandfonline.com/doi/abs/10.1080/15534510.2016.1206962)
 [Bast, J., Oschatz, C., & Renner, A. M. (2022). Successfully Overcoming the “Double Bind”? A Mixed-Method Analysis of the Self-Presentation of Female Right-wing Populists on Instagram and the Impact on Voter Attitudes. *Political Communication*, 1-25.](https://www.tandfonline.com/doi/abs/10.1080/10584609.2021.2007190)
-
----
