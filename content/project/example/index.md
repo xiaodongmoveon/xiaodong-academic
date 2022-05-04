@@ -1,6 +1,12 @@
 ---
+<<<<<<< Updated upstream
 title: Example Project
 summary: An example of using the in-built project page.
+=======
+title: Literature about Gender Politics
+subtitle: All the papers in this post are literature on gender politics that I have searched, and I will refine my reading by category in the near future and link to and update my reading notes and valuable assertions in this post for use in my future literature review of the study.
+summary: 
+>>>>>>> Stashed changes
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'

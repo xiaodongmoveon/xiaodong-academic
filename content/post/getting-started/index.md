@@ -20,7 +20,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/RR-FwGB6PEU)"
   focal_point: CENTER
   placement: 2
-  preview_only: false
+  preview_only: true
   filename: cute.jpg
 ---
 
