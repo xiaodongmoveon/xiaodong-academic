@@ -2,8 +2,9 @@
 slides: How
 url_pdf: ""
 summary: All the papers in this post are literature on gender politics that I have searched, and I will refine my reading by category in the near future and link to and update my reading notes and valuable assertions in this post for use in my future literature review of the study.
+
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date: 2022-05-04T20:40:00Z
 external_link: ""
 url_slides: ""
 title: Literature about Gender Politics
@@ -87,3 +88,4 @@ url_code: ""
 
 [Bast, J., Oschatz, C., & Renner, A. M. (2022). Successfully Overcoming the “Double Bind”? A Mixed-Method Analysis of the Self-Presentation of Female Right-wing Populists on Instagram and the Impact on Voter Attitudes. *Political Communication*, 1-25.](https://www.tandfonline.com/doi/abs/10.1080/10584609.2021.2007190)
 
+---
