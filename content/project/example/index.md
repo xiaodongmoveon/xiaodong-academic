@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Literature about Gender Politics
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
@@ -16,7 +16,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/Yxd_Academic
 url_code: ''
 url_pdf: ''
 url_slides: ''
