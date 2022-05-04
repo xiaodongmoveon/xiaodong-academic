@@ -29,7 +29,7 @@ item:
 widget_id: RECENT-POSTS
 headless: true
 weight: 50
-title: Barbaric Growth · Museum of Life
+title: Museum of Life
 subtitle: Please meet me here：）
 design:
   columns: "2"
