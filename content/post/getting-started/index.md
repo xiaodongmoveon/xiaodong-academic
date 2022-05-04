@@ -1,43 +1,27 @@
 ---
 title: Welcome to My Blog！I'll be enjoying myself here！🥰
 subtitle: I will share my daily life, study notes and interesting audio and video here.
-# Summary for listings and search engines
+date: 2022-05-04T00:00:00Z
 summary: I will share my daily life, study notes and interesting audio and video here.
-
-# Link this post with a project
-projects: []
-
-# Date published
-date: '2022-05-04T00:00:00Z'
-
-# Date updated
-lastmod: '2020-12-13T00:00:00Z'
-
-# Is this an unpublished draft?
 draft: false
-
-# Show this page in the Featured widget?
 featured: false
-
-# Featured image
-# Place an image named `cute.jpg` in this page's folder and customize its options here.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/RR-FwGB6PEU)'
-  focal_point: ''
-  placement: 2
-  preview_only: false
-
 authors:
   - admin
   - Yan Xiaodong
-
+lastmod: 2020-12-13T00:00:00Z
 tags:
-  - Pics 
+  - Pics
   - My Blog
-
 categories:
   - Diary
   - Share with U
+projects: []
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/RR-FwGB6PEU)"
+  focal_point: CENTER
+  placement: 2
+  preview_only: false
+  filename: cute.jpg
 ---
 
 ## Overview
