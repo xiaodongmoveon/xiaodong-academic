@@ -18,11 +18,11 @@ subtitle:
 feature:
   - description: 60%
     icon: Qualitative
-    icon_pack: fab
+    icon_pack: custom
     name: Qualitative
   - description: 40%
     icon: Quantitative
-    icon_pack: fas
+    icon_pack: custom
     name: Quantitative
   - description: 10%
     icon: camera-retro
