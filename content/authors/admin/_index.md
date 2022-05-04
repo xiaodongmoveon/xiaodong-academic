@@ -1,8 +1,6 @@
 ---
 title: Yan Xiaodong
-role: 
-  - name: School of Journalism and Communication
-    url: https://www.baidu.com
+role: School of Journalism and Communication
 organizations:
   - name: Wuhan University
     url: https://www.whu.edu.cn/
