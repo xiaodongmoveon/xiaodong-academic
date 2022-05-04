@@ -33,7 +33,7 @@ experience:
         *  Monitoring public opinion data
 widget_id: RECENT-POSTS
 headless: true
-weight: 90
+weight: 25
 title: Internship Experience
 subtitle: null
 design:
