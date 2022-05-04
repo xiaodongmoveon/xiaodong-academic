@@ -20,7 +20,7 @@ draft: false
 featured: false
 
 # Featured image
-# Place an image named `cute.jpg/png` in this page's folder and customize its options here.
+# Place an image named `cute.jpg` in this page's folder and customize its options here.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/RR-FwGB6PEU)'
   focal_point: ''
@@ -32,12 +32,12 @@ authors:
   - Yan Xiaodong
 
 tags:
-  - Academic
+  - Pics 
   - My Blog
 
 categories:
   - Diary
-  - 分享
+  - Share with U
 ---
 
 ## Overview
