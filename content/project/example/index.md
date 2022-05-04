@@ -2,7 +2,10 @@
 title: Literature about Gender Politics
 summary: All the papers in this post are literature on gender politics that I have searched, and I will refine my reading by category in the near future and link to and update my reading notes and valuable assertions in this article for use in my future literature review of the study.
 tags:
-  - Deep Learning, Gender Politics, Academic, Literature
+  - Deep Learning
+  - Gender Politics
+  - Academic
+  - Literature
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -81,11 +84,13 @@ slides: example
 [Åström, J., & Karlsson, M. (2016). The feminine style, the male influence, and the paradox of gendered political blogspace. *Information, Communication & Society*, 19(11), 1636-1652.](https://www.tandfonline.com/doi/abs/10.1080/1369118X.2016.1154088)
 
 ## TV Debates
+
 [Orbegozo-Terradillos, J., Larrondo-Ureta, A., & Morales-i-Gras, J. (2020). Influence of gender in electoral debates in Spain: Analysis of the social audience in# ElDebateDecisivo and# L6Neldebate. *PROFESIONAL DE LA INFORMACION*, 29(2).](https://revista.profesionaldelainformacion.com/index.php/EPI/article/view/epi.2020.mar.09)
 
 [Grebelsky-Lichtman, T., & Katz, R. (2019). When a man debates a woman: Trump vs. Clinton in the first mixed gender presidential debates. *Journal of Gender Studies*, 28(6), 699-719.](https://www.tandfonline.com/doi/abs/10.1080/09589236.2019.1566890)
 
 ## Other
+
 [Saha, S., & Weeks, A. C. (2020). Ambitious women: Gender and voter perceptions of candidate ambition. *Political Behavior*, 1-27.](https://idp.springer.com/authorize/casa)
 
 [Grebelsky-Lichtman, T., & Katz, R. (2020). Gender Effect on Political Leaders’ Nonverbal Communicative Structure during the COVID-19 Crisis. *International Journal of Environmental Research and Public Health*, 17(21), 7789.](https://www.mdpi.com/868266)
