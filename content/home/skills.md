@@ -24,9 +24,9 @@ feature:
     icon: Quantitative
     icon_pack: custom
     name: Quantitative
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
+  - description: 70%
+    icon: camera
+    icon_pack: custom
     name: Photography
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
