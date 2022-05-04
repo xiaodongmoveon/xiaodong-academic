@@ -1,7 +1,7 @@
 ---
 slides: How
 url_pdf: ""
-summary: All the papers in this post are literature on gender politics that I have searched, and I will refine my reading by category in the near future and link to and update my reading notes and valuable assertions in this post for use in my future literature review of the study.
+summary: 
 
 url_video: ""
 date: 2022-05-04T20:40:00Z
