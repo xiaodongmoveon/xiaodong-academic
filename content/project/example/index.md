@@ -1,38 +1,31 @@
 ---
+slides: example
+url_pdf: ""
+summary: All the papers in this post are literature on gender politics that I
+  have searched, and I will refine my reading by category in the near future and
+  link to and update my reading notes and valuable assertions in this article
+  for use in my future literature review of the study.
+url_video: ""
+date: 2016-04-27T00:00:00Z
+external_link: ""
+url_slides: ""
 title: Literature about Gender Politics
-summary: All the papers in this post are literature on gender politics that I have searched, and I will refine my reading by category in the near future and link to and update my reading notes and valuable assertions in this article for use in my future literature review of the study.
 tags:
   - Deep Learning
   - Gender Politics
   - Academic
   - Literature
-date: '2016-04-27T00:00:00Z'
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
 links:
   - icon: twitter
     icon_pack: fab
     name: Follow
     url: https://twitter.com/Yxd_Academic
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+  filename: w.jpg
+url_code: ""
 ---
-
 ## Presidential/Congress Campaigns
 
 [Gibson, K. L., & Heyse, A. L. (2010). “The difference between a hockey mom and a pit bull”: Sarah Palin's faux maternal persona and performance of hegemonic masculinity at the 2008 Republican National Convention. *Communication Quarterly*, 58(3), 235-256.](https://www.tandfonline.com/doi/abs/10.1080/01463373.2010.503151)
@@ -100,3 +93,7 @@ slides: example
 [Cavazza, N. (2016). When political candidates “go positive”: The effects of flattering the rival in political communication. *Social Influence*, 11(3), 166-176.](https://www.tandfonline.com/doi/abs/10.1080/15534510.2016.1206962)
 
 [Bast, J., Oschatz, C., & Renner, A. M. (2022). Successfully Overcoming the “Double Bind”? A Mixed-Method Analysis of the Self-Presentation of Female Right-wing Populists on Instagram and the Impact on Voter Attitudes. *Political Communication*, 1-25.](https://www.tandfonline.com/doi/abs/10.1080/10584609.2021.2007190)
+
+
+
+![](w.jpg)
